@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/uLua/Examples/A5_Debugger/A5_Debugger.unity
+  isLoaded: 1
+  isActive: 1

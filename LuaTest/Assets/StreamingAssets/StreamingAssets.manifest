@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2180815239
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: items.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: main.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: list.unity3d
+      Dependencies: {}
+    Info_3:
+      Name: search.unity3d
+      Dependencies: {}
+    Info_4:
+      Name: fetchpwd.unity3d
+      Dependencies: {}
+    Info_5:
+      Name: login.unity3d
+      Dependencies: {}
+    Info_6:
+      Name: signup.unity3d
+      Dependencies: {}
